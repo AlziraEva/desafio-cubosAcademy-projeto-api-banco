@@ -43,7 +43,7 @@ principais endpoints oferecidos pela API:
 
 ## Como Executar o Projeto
 
-1. Certifique-se de ter o Node.js instalado em sua máquina.
+1. Certifique-se de ter o Node.js, Git, VSCode instalados em sua máquina.
 2. Clone este repositório: `git clone git@github.com:AlziraEva/desafio-cubosAcademy-projeto-api-banco.git`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor: `npm run dev` 
@@ -53,7 +53,7 @@ principais endpoints oferecidos pela API:
 
 - Node.js
 - Express.js
-- Nodemon
+- Nodemon (para reiniciar automaticamente o servidor durante o desenvolvimento)
 - Date-fns (para formatação de datas)
 
 ## Contribuidores
