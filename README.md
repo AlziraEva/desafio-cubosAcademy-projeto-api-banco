@@ -21,8 +21,6 @@ A **Cubos Bank API** é uma aplicação backend que simula as operações bancá
   
 ## Endpoints
 
-principais endpoints oferecidos pela API:
-
 - **GET /contas**: Lista todas as contas bancárias registradas.
 
 - **POST /contas**: Cria uma nova conta bancária.
@@ -42,7 +40,7 @@ principais endpoints oferecidos pela API:
 - **GET /contas/extrato**:  Obtém o extrato de transações de uma conta.
 
 ## Layout
-![api em ação](https://github.com/AlziraEva/first-game/assets/138158823/2611c00e-ebdf-4a91-84f7-ed6f367ce283)
+![api em ação](https://github.com/AlziraEva/desafio-cubosAcademy-projeto-api-banco/assets/138158823/0a7434cc-1e4e-407a-bf8e-4be4fa81561a)
 
 ## Como Executar o Projeto
 
