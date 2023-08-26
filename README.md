@@ -18,6 +18,28 @@ A **Cubos Bank API** é uma aplicação backend que simula as operações bancá
 - Realizar transferências entre contas
 - Obter o saldo de uma conta
 - Obter o extrato de transações de uma conta
+  
+## Endpoints
+
+principais endpoints oferecidos pela API:
+
+- **GET /contas**: Lista todas as contas bancárias registradas.
+
+- **POST /contas**: Cria uma nova conta bancária.
+
+- **PUT /contas/:numeroConta/usuario**: Atualiza os detalhes do usuário associado a uma conta.
+
+- **DELETE /contas/:numeroConta**: Exclui uma conta bancária (apenas se saldo for zero).
+
+- **POST /transacoes/depositar**: Realiza um depósito em uma conta.
+
+- **POST /transacoes/sacar**: Realiza um saque de uma conta.
+
+- **POST /transacoes/transferir**: Realiza uma transferência entre contas.
+
+- **GET /contas/saldo**: Obtém o saldo de uma conta.
+
+- **GET /contas/extrato**:  Obtém o extrato de transações de uma conta.
 
 ## Como Executar o Projeto
 
@@ -57,4 +79,4 @@ A **Cubos Bank API** é uma aplicação backend que simula as operações bancá
 
 ## Licença
 
-.
+Feito com por Alzira Eva 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alzira-eva-cavalcanti-alves-a62b97135)
