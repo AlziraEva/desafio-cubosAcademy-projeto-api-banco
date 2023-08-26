@@ -48,7 +48,7 @@ A **Cubos Bank API** é uma aplicação backend que simula as operações bancá
 2. Clone este repositório: `git clone git@github.com:AlziraEva/desafio-cubosAcademy-projeto-api-banco.git`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor: `npm run dev` 
-5. A API estará disponível em: `http://localhost:3000`
+5. Teste as Rotas: Uma ferramenta para testar APIs é o insomnia. A API estará disponível em: `http://localhost:3000`
 
 ## Tecnologias Utilizadas
 
