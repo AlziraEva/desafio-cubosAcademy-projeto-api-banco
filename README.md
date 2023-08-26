@@ -48,10 +48,10 @@ A **Cubos Bank API** é uma aplicação backend que simula as operações bancá
 
 ## Autor
 
-![Autor](link-para-sua-foto.jpg)
-- Seu Nome
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- Email: seuemail@example.com
+![Autora](https://github.com/AlziraEva/desafio-cubosAcademy-projeto-api-banco/assets/138158823/9862a6ec-be7e-4a4e-9518-bc5929682489)
+- Alzira Eva
+- [LinkedIn](https://www.linkedin.com/in/alzira-eva-cavalcanti-alves-a62b97135/)
+- Email: alziraalves1996@gmail.com
 
 ## Licença
 
