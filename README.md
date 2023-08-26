@@ -23,22 +23,20 @@ A **Cubos Bank API** é uma aplicação backend que simula as operações bancá
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
 2. Clone este repositório: `git clone git@github.com:AlziraEva/desafio-cubosAcademy-projeto-api-banco.git`
-3. Acesse o diretório do projeto: `cd cubos-bank-api`
-4. Instale as dependências: `npm install`
-5. Inicie o servidor: `npm start` (ou `npx nodemon index.js` se preferir utilizar o Nodemon)
-
-6
-6. A API estará disponível em: `http://localhost:3000`
+3. Instale as dependências: `npm install`
+4. Inicie o servidor: `npm run dev` 
+5. A API estará disponível em: `http://localhost:3000`
 
 ## Tecnologias Utilizadas
 
 - Node.js
 - Express.js
+- Nodemon
 - Date-fns (para formatação de datas)
 
 ## Contribuidores
 
-- [Seu Nome](https://github.com/your-username)
+- [Alzira Eva](https://github.com/AlziraEva)
 
 ## Como Contribuir para o Projeto
 
