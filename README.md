@@ -41,6 +41,9 @@ principais endpoints oferecidos pela API:
 
 - **GET /contas/extrato**:  Obtém o extrato de transações de uma conta.
 
+## Layout
+![api em ação](https://github.com/AlziraEva/first-game/assets/138158823/2611c00e-ebdf-4a91-84f7-ed6f367ce283)
+
 ## Como Executar o Projeto
 
 1. Certifique-se de ter o Node.js, Git, VSCode instalados em sua máquina.
