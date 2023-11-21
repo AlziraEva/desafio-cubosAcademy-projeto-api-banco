@@ -1,7 +1,7 @@
 # Cubos Bank API
 
 
-![status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+![status](https://img.shields.io/badge/status-%20concluido-green)
 
 ## Sobre o Projeto
 
